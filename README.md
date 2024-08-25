@@ -50,5 +50,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 Bootstrap for providing a responsive framework.
 GSAP for enabling smooth and professional animations.
 Google Fonts for the Ubuntu font used in the project.
-Contact
-For any inquiries or feedback, please contact your-email@example.com.
+### Contact
+For any inquiries or feedback, please contact vikasgavandi.dev@gmail.com.
