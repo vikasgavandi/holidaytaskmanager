@@ -21,7 +21,7 @@ Clone the Repository
 
 ### bash
 Copy code
-git clone https://github.com/your-username/multi-step-task-manager.git
+git clone https://github.com/vikasgavandi/multi-step-task-manager.git
 cd multi-step-task-manager
 Open the Project
 
